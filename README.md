@@ -1,5 +1,5 @@
-### Hi there 👋
-Passionate Full-Stack Developer with a knack for optimizing web applications.
+### Hi, I'm Fadega 👋
+Passionate Full-Stack Developer with a knack for optimizing and scaling web applications. My proficiency spans across several programming languages such as PHP, Java, JavaScript, Python, and frameworks including Laravel and React.
 <p align="center">
 
   <a href="https://twitter.com/codethoughts1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
