@@ -1,4 +1,5 @@
 ### Hi, I'm Fadega 👋
+
 Passionate Full-Stack Developer with a knack for optimizing and scaling web applications. My proficiency spans across several programming languages such as PHP, Java, JavaScript, Python, and frameworks including Laravel and React.
 <p align="center">
 
