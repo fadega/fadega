@@ -3,8 +3,6 @@
 Hi 👋  My name is Fadega Afa
 ==================================================================================================================================
 
-Software Engineer
------------------
 
 I am a software engineer with a passion for creating efficient web applications and a keen focus on both back-end and front-end development. My journey is filled with experiences of transforming complex challenges into human-centered digital solutions. Currently, I am channeling my energy into building accessible and inclusive products.
 
