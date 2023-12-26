@@ -4,7 +4,7 @@ Hi 👋
 ==================================================================================================================================
 
 
-I am a software engineer focusing on building accessible and inclusive products.
+I am a software engineer focusing on building accessible products.
 
 
 * 🖥️  See my portfolio at [fadega.dev](http://fadega.dev)
